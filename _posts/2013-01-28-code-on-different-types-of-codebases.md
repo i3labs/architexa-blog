@@ -17,7 +17,7 @@ categories:
 <!--S-ButtonZ 1.1.5 End-->
 
 <div id="attachment_401" style="width: 245px" class="wp-caption alignright">
-  <a href="/assets/uploads/2013/01/allianz-arena-300x148.jpg"><img class="alignright size-full wp-image-401" alt="allianz arena" src="/assets/uploads/2013/01/allianz-arena-300x148.jpg" width="235" srcset="/assets/uploads/2013/01/allianz-arena-300x148.jpg 300w, /assets/uploads/2013/01/allianz-arena.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="assets/uploads/2013/01/allianz-arena-300x148.jpg"><img class="alignright size-full wp-image-401" alt="allianz arena" src="assets/uploads/2013/01/allianz-arena-300x148.jpg" width="235" srcset="assets/uploads/2013/01/allianz-arena-300x148.jpg 300w, assets/uploads/2013/01/allianz-arena.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     <a href="http://www.flickr.com/photos/siebeneinhalb-de/1232149352/">Allianz Arena</a> by <a href="http://www.dirkloop.com/">Dirk Loop</a>

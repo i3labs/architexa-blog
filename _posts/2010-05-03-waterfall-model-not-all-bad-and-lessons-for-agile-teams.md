@@ -16,7 +16,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-57" title="real_waterfall" src="/assets/uploads/2010/04/real_waterfall-231x300.jpg" alt="" width="231" height="300" srcset="/assets/uploads/2010/04/real_waterfall-231x300.jpg 231w, /assets/uploads/2010/04/real_waterfall.jpg 385w" sizes="(max-width: 231px) 100vw, 231px" />](/assets/uploads/2010/04/real_waterfall.jpg)The Waterfall model has become a [joke](http://www.waterfall2006.com/) and is pointed to as an way of doing software development poorly. While the approach has a number of limitations, it is helpful in some situations. Understanding these situations can be useful when trying to use an agile development methodolgy to make sure that you do not make critical mistakes.
+[<img class="alignright size-medium wp-image-57" title="real_waterfall" src="assets/uploads/2010/04/real_waterfall-231x300.jpg" alt="" width="231" height="300" srcset="assets/uploads/2010/04/real_waterfall-231x300.jpg 231w, assets/uploads/2010/04/real_waterfall.jpg 385w" sizes="(max-width: 231px) 100vw, 231px" />](assets/uploads/2010/04/real_waterfall.jpg)The Waterfall model has become a [joke](http://www.waterfall2006.com/) and is pointed to as an way of doing software development poorly. While the approach has a number of limitations, it is helpful in some situations. Understanding these situations can be useful when trying to use an agile development methodolgy to make sure that you do not make critical mistakes.
 
 During a conversation last week, a team lead told me that he considered Agile and Watefall as being two different approaches with the same result. As a proponent of Agile approaches, I tried to understand his situation and convince him of the benefit of an agile approach. After some discussion, I came to the conclusion that his situation was unique in that it actually benefit from a more rigid approach.
 
@@ -27,7 +27,7 @@ The reality is that different development methodologies are appropriate for diff
 While the Waterfall model (even when first [described](http://en.wikipedia.org/wiki/Waterfall_model#cite_ref-0)) was used as an example of a flawed development model, it does have strengths. Many organizations need better software systems, but don&#8217;t really understand their requirement. Having a well-defined process for gathering requirements can help clarify the most important parts of a complex project. Agile teams work well when faced with changing requirements but they need to make sure **that the first requirements that they are working on are the most important ones**.
 
 <div id="attachment_55" style="width: 310px" class="wp-caption alignright">
-  <a href="/assets/uploads/2010/04/waterfall1.png"><img class="size-medium wp-image-55" title="waterfall1" src="/assets/uploads/2010/04/waterfall1-300x297.png" alt="" width="300" height="297" srcset="/assets/uploads/2010/04/waterfall1-300x297.png 300w, /assets/uploads/2010/04/waterfall1-150x150.png 150w, /assets/uploads/2010/04/waterfall1.png 363w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="assets/uploads/2010/04/waterfall1.png"><img class="size-medium wp-image-55" title="waterfall1" src="assets/uploads/2010/04/waterfall1-300x297.png" alt="" width="300" height="297" srcset="assets/uploads/2010/04/waterfall1-300x297.png 300w, assets/uploads/2010/04/waterfall1-150x150.png 150w, assets/uploads/2010/04/waterfall1.png 363w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Agile development may not be as efficient when progressing towards a known goal (as indicated by the red line), but they do have useful functionality in every iteration.
@@ -35,7 +35,7 @@ While the Waterfall model (even when first [described](http://en.wikipedia.org/w
 </div>
 
 <div id="attachment_56" style="width: 304px" class="wp-caption alignright">
-  <a href="/assets/uploads/2010/04/waterfall2.png"><img class="size-medium wp-image-56 " title="waterfall2" src="/assets/uploads/2010/04/waterfall2-294x300.png" alt="" width="294" height="300" srcset="/assets/uploads/2010/04/waterfall2-294x300.png 294w, /assets/uploads/2010/04/waterfall2.png 363w" sizes="(max-width: 294px) 100vw, 294px" /></a>
+  <a href="assets/uploads/2010/04/waterfall2.png"><img class="size-medium wp-image-56 " title="waterfall2" src="assets/uploads/2010/04/waterfall2-294x300.png" alt="" width="294" height="300" srcset="assets/uploads/2010/04/waterfall2-294x300.png 294w, assets/uploads/2010/04/waterfall2.png 363w" sizes="(max-width: 294px) 100vw, 294px" /></a>
   
   <p class="wp-caption-text">
     Goals change over time - a team using the waterfall model will take much longer to reach an adjusted goal than an agile one.

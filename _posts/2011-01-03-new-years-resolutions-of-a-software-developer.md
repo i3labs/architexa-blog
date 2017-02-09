@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-210" title="lx3-fireworks-001" src="/assets/uploads/2011/01/lx3-fireworks-001-188x300.jpg" alt="" width="188" height="300" srcset="/assets/uploads/2011/01/lx3-fireworks-001-188x300.jpg 188w, /assets/uploads/2011/01/lx3-fireworks-001.jpg 370w" sizes="(max-width: 188px) 100vw, 188px" />](/assets/uploads/2011/01/lx3-fireworks-001.jpg)Happy new year all! With the new year comes a chance to re-invent yourself, and as a software developer I find that it is a great opportunity to reflect on how I can improve my skills in the upcoming months. I have thought about this quite a bit over the last few days and have come up with a list of new years resolutions I intend to follow that will help me, and hopefully others, start the new year off on the right foot.
+[<img class="alignright size-medium wp-image-210" title="lx3-fireworks-001" src="assets/uploads/2011/01/lx3-fireworks-001-188x300.jpg" alt="" width="188" height="300" srcset="assets/uploads/2011/01/lx3-fireworks-001-188x300.jpg 188w, assets/uploads/2011/01/lx3-fireworks-001.jpg 370w" sizes="(max-width: 188px) 100vw, 188px" />](assets/uploads/2011/01/lx3-fireworks-001.jpg)Happy new year all! With the new year comes a chance to re-invent yourself, and as a software developer I find that it is a great opportunity to reflect on how I can improve my skills in the upcoming months. I have thought about this quite a bit over the last few days and have come up with a list of new years resolutions I intend to follow that will help me, and hopefully others, start the new year off on the right foot.
 
 **Practice and experiment with new languages and frameworks for at least a day a month.**
   

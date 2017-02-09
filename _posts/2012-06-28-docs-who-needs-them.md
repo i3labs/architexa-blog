@@ -22,7 +22,7 @@ categories:
 Software documentation is one of those things that is sorely missed when it isn&#8217;t there.  Why is it the last thing that any of us developers wants to do?  It seems that it is easy for us to ignore documenting in the heat of the situation, but we always get burned in one of many ways.
 
 <p style="text-align: center;">
-  <a href="/assets/uploads/2012/06/docmaps1.gif"><img class="aligncenter size-large wp-image-358" title="Literate Programming Style Code View" src="/assets/uploads/2012/06/docmaps1-1024x251.gif" alt="Literate Programming Style Code View" srcset="/assets/uploads/2012/06/docmaps1-1024x251.gif 1024w, /assets/uploads/2012/06/docmaps1-300x73.gif 300w, /assets/uploads/2012/06/docmaps1.gif 1093w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+  <a href="assets/uploads/2012/06/docmaps1.gif"><img class="aligncenter size-large wp-image-358" title="Literate Programming Style Code View" src="assets/uploads/2012/06/docmaps1-1024x251.gif" alt="Literate Programming Style Code View" srcset="assets/uploads/2012/06/docmaps1-1024x251.gif 1024w, assets/uploads/2012/06/docmaps1-300x73.gif 300w, assets/uploads/2012/06/docmaps1.gif 1093w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
 </p>
 
 <!--more-->

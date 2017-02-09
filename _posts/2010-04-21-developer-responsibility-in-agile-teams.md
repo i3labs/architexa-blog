@@ -16,7 +16,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
- <img style="float:right;" src="/assets/uploads/2010/04/posItNotes.jpg" alt="Agile Development" border="0" />As the hype around [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) has been reducing &#8211; it has moved from just being a buzz word to a set of principles with teams benefiting from adopting it. However, many teams trying to transition to Agile are still not able to do it successfully.
+ <img style="float:right;" src="assets/uploads/2010/04/posItNotes.jpg" alt="Agile Development" border="0" />As the hype around [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) has been reducing &#8211; it has moved from just being a buzz word to a set of principles with teams benefiting from adopting it. However, many teams trying to transition to Agile are still not able to do it successfully.
 
 Part of the challenge is that a large focus of agile has been about teams being able to respond to change and thus working with multiple iterations while having working code. But the focus on iterations and working code is not enough to do agile successfully. _Agile teams need to make sure that the teams collaborate and work together effectively to produce results._
 

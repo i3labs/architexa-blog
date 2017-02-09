@@ -24,7 +24,7 @@ author: Vineet Sinha
 email: vineet.sinha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Experiments in Intelligent, Insightful, and Intuitive
-baseurl: "/architexa-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: http://blog.architexa.com
 twitter_username: VineetSinha
 github_username:  vineet-sinha

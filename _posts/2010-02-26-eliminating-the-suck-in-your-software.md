@@ -19,7 +19,7 @@ tags:
 <!--S-ButtonZ 1.1.5 End-->
 
 <div class="picture">
-  <img src="/assets/uploads/2010/03/SoftwareSucks.jpg" alt="Software Sucks!" width="282" height="216" />
+  <img src="assets/uploads/2010/03/SoftwareSucks.jpg" alt="Software Sucks!" width="282" height="216" />
 </div>
 
 Recently Microsoft NERD hosted a talk by David Platt, and according to David, users think that today&#8217;s software sucks. He says it is overcomplicated, too hard to use, and simply doesn&#8217;t get its job done. It is true that software is a top consumer complaint. David cites statistics from the Better Business Bureau regarding most complaints received per industry, and software industries appeared three times in the top 7 in 2006 and three times in the top 5 in 2007.

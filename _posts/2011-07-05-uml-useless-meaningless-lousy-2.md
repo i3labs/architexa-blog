@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-full wp-image-21" title="uml-top" src="/assets/uploads/2010/04/uml-top1.png" alt="UML LOGO" width="106" height="87" />](/assets/uploads/2010/04/uml-top1.png)It is easy to find numerous negative sentiments about UML. The main complaints seem to revolve around UML being of little practical use and inconvenient to draw and update.
+[<img class="alignright size-full wp-image-21" title="uml-top" src="assets/uploads/2010/04/uml-top1.png" alt="UML LOGO" width="106" height="87" />](assets/uploads/2010/04/uml-top1.png)It is easy to find numerous negative sentiments about UML. The main complaints seem to revolve around UML being of little practical use and inconvenient to draw and update.
 
 I have been looking into the practicality of UML and find [this](http://stackoverflow.com/questions/18803/is-uml-practical/19110#19110) answer on stackoverflow very interesting:
 
@@ -28,7 +28,7 @@ I have been looking into the practicality of UML and find [this](http://stackove
 
 My question is: Is it all that bad to walk while looking at your feet? It is often said that learning to walk is one of the hardest skills a person has to learn. However, in time walking doesn’t seem like a “learned skill” anymore because we do it so much that it seems natural. But what happens when we are walking along a tricky path strewn with pebbles, banana-peels and the like; wouldn’t we feel safer to look at our feet as we walk?<!--more-->
 
-[<img class="aligncenter size-full wp-image-272" title="cartoon walking" src="/assets/uploads/2011/06/cartoon-walking.jpg" alt="" width="500" height="293" srcset="/assets/uploads/2011/06/cartoon-walking.jpg 500w, /assets/uploads/2011/06/cartoon-walking-300x175.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/assets/uploads/2011/06/cartoon-walking.jpg)
+[<img class="aligncenter size-full wp-image-272" title="cartoon walking" src="assets/uploads/2011/06/cartoon-walking.jpg" alt="" width="500" height="293" srcset="assets/uploads/2011/06/cartoon-walking.jpg 500w, assets/uploads/2011/06/cartoon-walking-300x175.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](assets/uploads/2011/06/cartoon-walking.jpg)
 
 The same goes for programming. Overtime, coding becomes second nature. **The inherent danger is that we are prone to stumble if we don’t look at our feet as we walk.**
 

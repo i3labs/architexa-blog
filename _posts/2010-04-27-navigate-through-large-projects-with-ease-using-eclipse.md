@@ -20,7 +20,7 @@ tags:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-<img class="alignright size-full wp-image-50" alt="" src="/assets/uploads/2010/04/compass1.jpg" width="159" height="240" srcset="/assets/uploads/2010/04/compass1.jpg 331w, /assets/uploads/2010/04/compass1-198x300.jpg 198w" sizes="(max-width: 159px) 100vw, 159px" />When working with large code bases, finding your way around can sometime get quite challenging. In such cases, Eclipse makes a developer&#8217;s life a lot easier with its shortcuts and quick navigation features. Below is a compilation of a few shortcuts that I have found really useful.
+<img class="alignright size-full wp-image-50" alt="" src="assets/uploads/2010/04/compass1.jpg" width="159" height="240" srcset="assets/uploads/2010/04/compass1.jpg 331w, assets/uploads/2010/04/compass1-198x300.jpg 198w" sizes="(max-width: 159px) 100vw, 159px" />When working with large code bases, finding your way around can sometime get quite challenging. In such cases, Eclipse makes a developer&#8217;s life a lot easier with its shortcuts and quick navigation features. Below is a compilation of a few shortcuts that I have found really useful.
 
 **_Quick Navigation in the Workspace_**
 
@@ -29,7 +29,7 @@ While working with a large projects one of the challenges we face is to quickly 
 <!--more-->
 
 <div id="attachment_47" style="width: 252px" class="wp-caption aligncenter">
-  <a href="/assets/uploads/2010/04/openRes.png"><img class="size-full wp-image-47      " title="Find a resource (Ctrl+Shift+R)" alt="" src="/assets/uploads/2010/04/openRes.png" width="242" height="280" srcset="/assets/uploads/2010/04/openRes.png 328w, /assets/uploads/2010/04/openRes-258x300.png 258w" sizes="(max-width: 242px) 100vw, 242px" /></a>
+  <a href="assets/uploads/2010/04/openRes.png"><img class="size-full wp-image-47      " title="Find a resource (Ctrl+Shift+R)" alt="" src="assets/uploads/2010/04/openRes.png" width="242" height="280" srcset="assets/uploads/2010/04/openRes.png 328w, assets/uploads/2010/04/openRes-258x300.png 258w" sizes="(max-width: 242px) 100vw, 242px" /></a>
   
   <p class="wp-caption-text">
     Find a resource (Ctrl+Shift+R)
@@ -49,7 +49,7 @@ If you like to have multiple files open in the editor, **Ctrl+E** list all of t
 When dealing with large files use **Ctrl+L** to jump to a particular line in the file. Although an outline view is available in Eclipse but I normally don’t use it to save me some screen space. Instead, I prefer **Ctrl+O** which shows a complete list of all the methods and fields present in the class. Press Ctrl+O again to show/hide the inherited methods for that class.
 
 <div id="attachment_46" style="width: 456px" class="wp-caption aligncenter">
-  <a href="/assets/uploads/2010/04/outline.png"><img class="size-full wp-image-46    " title="Show all members in a class (Ctrl+O)" alt="" src="/assets/uploads/2010/04/outline.png" width="446" height="311" srcset="/assets/uploads/2010/04/outline.png 557w, /assets/uploads/2010/04/outline-300x209.png 300w" sizes="(max-width: 446px) 100vw, 446px" /></a>
+  <a href="assets/uploads/2010/04/outline.png"><img class="size-full wp-image-46    " title="Show all members in a class (Ctrl+O)" alt="" src="assets/uploads/2010/04/outline.png" width="446" height="311" srcset="assets/uploads/2010/04/outline.png 557w, assets/uploads/2010/04/outline-300x209.png 300w" sizes="(max-width: 446px) 100vw, 446px" /></a>
   
   <p class="wp-caption-text">
     Show all members in a class (Ctrl+O)
@@ -63,7 +63,7 @@ When dealing with large files use **Ctrl+L** to jump to a particular line in th
 Although, I am not a big fan of the breadcrumbs feature (**Alt+Shift+B)**, it does tell your current location with respect to a method, class and package you are working in.
 
 <div id="attachment_48" style="width: 556px" class="wp-caption aligncenter">
-  <a href="/assets/uploads/2010/04/bread.png"><img class="size-full wp-image-48    " title="Breadcrumbs feature" alt="" src="/assets/uploads/2010/04/bread.png" width="546" height="99" srcset="/assets/uploads/2010/04/bread.png 854w, /assets/uploads/2010/04/bread-300x54.png 300w" sizes="(max-width: 546px) 100vw, 546px" /></a>
+  <a href="assets/uploads/2010/04/bread.png"><img class="size-full wp-image-48    " title="Breadcrumbs feature" alt="" src="assets/uploads/2010/04/bread.png" width="546" height="99" srcset="assets/uploads/2010/04/bread.png 854w, assets/uploads/2010/04/bread-300x54.png 300w" sizes="(max-width: 546px) 100vw, 546px" /></a>
   
   <p class="wp-caption-text">
     Breadcrumbs feature
@@ -73,7 +73,7 @@ Although, I am not a big fan of the breadcrumbs feature (**Alt+Shift+B)**, it do
 Another really helpful shortcut while refactoring is **ALT+SHIFT+T.** It finds and modifies all the appearances of a particular resource in the workspace. In particular, my favorite is **ALT+SHIFT+R** which renames all the occurrences of the particular resource. Once you are done making your changes quickly organize  all your imports using **Ctrl+Shift+O**.
 
 <div id="attachment_44" style="width: 378px" class="wp-caption aligncenter">
-  <a href="/assets/uploads/2010/04/refactor.png"><img class="size-full wp-image-44   " title="Refactor using Alt+Shift+R" alt="" src="/assets/uploads/2010/04/refactor.png" width="368" height="52" srcset="/assets/uploads/2010/04/refactor.png 409w, /assets/uploads/2010/04/refactor-300x42.png 300w" sizes="(max-width: 368px) 100vw, 368px" /></a>
+  <a href="assets/uploads/2010/04/refactor.png"><img class="size-full wp-image-44   " title="Refactor using Alt+Shift+R" alt="" src="assets/uploads/2010/04/refactor.png" width="368" height="52" srcset="assets/uploads/2010/04/refactor.png 409w, assets/uploads/2010/04/refactor-300x42.png 300w" sizes="(max-width: 368px) 100vw, 368px" /></a>
   
   <p class="wp-caption-text">
     Refactor using Alt+Shift+R

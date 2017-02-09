@@ -21,7 +21,7 @@ tags:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-311" title="opensource_logo" src="/assets/uploads/2011/09/opensource_logo-300x258.gif" alt="" width="210" height="181" srcset="/assets/uploads/2011/09/opensource_logo-300x258.gif 300w, /assets/uploads/2011/09/opensource_logo.gif 400w" sizes="(max-width: 210px) 100vw, 210px" />](/assets/uploads/2011/09/opensource_logo.gif)
+[<img class="alignright size-medium wp-image-311" title="opensource_logo" src="assets/uploads/2011/09/opensource_logo-300x258.gif" alt="" width="210" height="181" srcset="assets/uploads/2011/09/opensource_logo-300x258.gif 300w, assets/uploads/2011/09/opensource_logo.gif 400w" sizes="(max-width: 210px) 100vw, 210px" />](assets/uploads/2011/09/opensource_logo.gif)
 
 When development teams are in the same room, it is not surprising to see diagrams being used &#8211; if only being shared via sketches made on pads, or through the use of whiteboards. Interestingly, despite the fact that OSS teams are distributed geographically, diagrams also play an important role in OSS development.
 

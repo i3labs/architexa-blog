@@ -44,7 +44,7 @@ Now that you have your build system working, you can choose to not have a separa
 
 <div>
   <center>
-    <img src="/assets/uploads/2010/04/findBuildXml.png" alt="Quickly find build.xml using Ctrl+Shift+r" />
+    <img src="assets/uploads/2010/04/findBuildXml.png" alt="Quickly find build.xml using Ctrl+Shift+r" />
   </center>
 </div>
 
@@ -62,7 +62,7 @@ To configure Eclipse&#8217;s build system, right click on the Project (which you
 
 <div>
   <center>
-    <img src="/assets/uploads/2010/04/launchBuild.png" alt="run previously created build configurations" />
+    <img src="assets/uploads/2010/04/launchBuild.png" alt="run previously created build configurations" />
   </center>
 </div>
 
