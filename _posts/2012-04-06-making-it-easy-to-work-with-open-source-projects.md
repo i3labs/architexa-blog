@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-332" title="beginning" src="assets/uploads/2012/04/beginning-240x300.jpg" alt="" width="174" height="218" srcset="assets/uploads/2012/04/beginning-240x300.jpg 240w, assets/uploads/2012/04/beginning.jpg 300w" sizes="(max-width: 174px) 100vw, 174px" />](assets/uploads/2012/04/beginning.jpg)We have been trying to build something amazing to help developers quickly understand how to get moving with large projects. As we have been doing that, we have been hearing a growing set of requests for help with Open Source Projects.
+[<img class="alignright size-medium wp-image-332" title="beginning" src="/assets/uploads/2012/04/beginning-240x300.jpg" alt="" width="174" height="218" srcset="/assets/uploads/2012/04/beginning-240x300.jpg 240w, /assets/uploads/2012/04/beginning.jpg 300w" sizes="(max-width: 174px) 100vw, 174px" />](/assets/uploads/2012/04/beginning.jpg)We have been trying to build something amazing to help developers quickly understand how to get moving with large projects. As we have been doing that, we have been hearing a growing set of requests for help with Open Source Projects.
 
 We have spent the last last few months improving our engine and building a couple of cool features to help the users with open source projects &#8211; in large part based on ideas that were sent to us. Well, it&#8217;s Spring, and it&#8217;s time to pull the covers off.
 

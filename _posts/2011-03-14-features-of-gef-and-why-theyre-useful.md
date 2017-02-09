@@ -23,7 +23,7 @@ tags:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img src="assets/uploads/2011/03/logo-300x69.jpg" alt="" title="logo" width="300" height="69" class="alignright size-medium wp-image-229" srcset="assets/uploads/2011/03/logo-300x69.jpg 300w, assets/uploads/2011/03/logo.jpg 499w" sizes="(max-width: 300px) 100vw, 300px" />](assets/uploads/2011/03/logo.jpg)GEF provides a great framework for building MVC based plugins on the Eclipse platform. It contains a great deal of the core functionality (described in more detail [here](http://blog.architexa.com/2011/03/a-simple-intro-to-creating-a-mvc-framework-using-gef/))  necessary for building these types of apps. In addition, GEF also provides features that greatly simplify the task of creating a robust interactive editor. I&#8217;ll try to show how these different features can benefit any Eclipse developer working with GEF.<!--more-->
+[<img src="/assets/uploads/2011/03/logo-300x69.jpg" alt="" title="logo" width="300" height="69" class="alignright size-medium wp-image-229" srcset="/assets/uploads/2011/03/logo-300x69.jpg 300w, /assets/uploads/2011/03/logo.jpg 499w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2011/03/logo.jpg)GEF provides a great framework for building MVC based plugins on the Eclipse platform. It contains a great deal of the core functionality (described in more detail [here](http://blog.architexa.com/2011/03/a-simple-intro-to-creating-a-mvc-framework-using-gef/))  necessary for building these types of apps. In addition, GEF also provides features that greatly simplify the task of creating a robust interactive editor. I&#8217;ll try to show how these different features can benefit any Eclipse developer working with GEF.<!--more-->
 
 **Tools**
   

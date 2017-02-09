@@ -20,7 +20,7 @@ categories:
 <!--S-ButtonZ 1.1.5 End-->
 
 <div id="_mcePaste">
-  <img class="alignright size-full wp-image-61" title="dep_Inj_types" src="assets/uploads/2010/05/dep_Inj_types.jpg" alt="" width="280" height="300" />In continuation with my effort of trying to simplify <a href="http://blog.architexa.com/category/design-patterns-architecture/">Dependency Injection</a>, I want to elaborate on the different types of injection. Dependency Injection is decoupling an application and service so that the application does not need to know anything about the service implementation. Dependency injection can be broadly classified in three categories: Constructor, Setter and Interface.
+  <img class="alignright size-full wp-image-61" title="dep_Inj_types" src="/assets/uploads/2010/05/dep_Inj_types.jpg" alt="" width="280" height="300" />In continuation with my effort of trying to simplify <a href="http://blog.architexa.com/category/design-patterns-architecture/">Dependency Injection</a>, I want to elaborate on the different types of injection. Dependency Injection is decoupling an application and service so that the application does not need to know anything about the service implementation. Dependency injection can be broadly classified in three categories: Constructor, Setter and Interface.
 </div>
 
 

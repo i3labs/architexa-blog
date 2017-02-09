@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img src="assets/uploads/2012/10/springsource_logo.gif" alt="" title="springsource_logo" width="235" height="83" class="alignright size-full wp-image-388" />](assets/uploads/2012/10/springsource_logo.gif)I was recently talking to someone I respect very highly about the Spring Framework. I told him that that I would only very reluctantly consider it for a project.
+[<img src="/assets/uploads/2012/10/springsource_logo.gif" alt="" title="springsource_logo" width="235" height="83" class="alignright size-full wp-image-388" />](/assets/uploads/2012/10/springsource_logo.gif)I was recently talking to someone I respect very highly about the Spring Framework. I told him that that I would only very reluctantly consider it for a project.
 
 Now, I have used Spring in the past, and am really a big fan of what they have done. But, these days, I keep thinking of &#8216;bloated&#8217; in association with them, and wonder if their best days are perhaps behind them.<!--more-->
 

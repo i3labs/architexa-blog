@@ -18,7 +18,7 @@ categories:
 
 <!--dzoneZ=none-->
 
-[<img class="alignright size-medium wp-image-322" title="cake" src="assets/uploads/2011/11/cake-300x300.jpg" alt="" width="240" height="240" srcset="assets/uploads/2011/11/cake-300x300.jpg 300w, assets/uploads/2011/11/cake-150x150.jpg 150w, assets/uploads/2011/11/cake.jpg 500w" sizes="(max-width: 240px) 100vw, 240px" />](assets/uploads/2011/11/cake.jpg)
+[<img class="alignright size-medium wp-image-322" title="cake" src="/assets/uploads/2011/11/cake-300x300.jpg" alt="" width="240" height="240" srcset="/assets/uploads/2011/11/cake-300x300.jpg 300w, /assets/uploads/2011/11/cake-150x150.jpg 150w, /assets/uploads/2011/11/cake.jpg 500w" sizes="(max-width: 240px) 100vw, 240px" />](/assets/uploads/2011/11/cake.jpg)
 
 Eclipse is turning 10 years &#8211; and we have been in a mood to celebrate it. We have been involved in a lot of Eclipse related events in the past, but wanted to do something special this year.
 

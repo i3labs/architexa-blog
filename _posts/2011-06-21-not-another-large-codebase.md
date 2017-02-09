@@ -20,7 +20,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-<img class="alignright size-medium wp-image-276" title="question mark" src="assets/uploads/2011/06/question-mark-300x197.jpg" alt="" width="300" height="197" srcset="assets/uploads/2011/06/question-mark-300x197.jpg 300w, assets/uploads/2011/06/question-mark.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignright size-medium wp-image-276" title="question mark" src="/assets/uploads/2011/06/question-mark-300x197.jpg" alt="" width="300" height="197" srcset="/assets/uploads/2011/06/question-mark-300x197.jpg 300w, /assets/uploads/2011/06/question-mark.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I came across two blog posts which agree that large code bases are a hassle to programmers. The first post, [“Code’s worst enemy”](http://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html) written by Steve Yegge, basically loathes large code bases and Jeff Atwok shares the same opinion in [“Size is the enemy”](http://www.codinghorror.com/blog/2007/12/size-is-the-enemy.html). The problem with large code bases is that their physical size is indication for the large amount of effort, cost and time to be invested for that project, as stated in Steve McConnell books.
 
@@ -30,7 +30,7 @@ What I find questionable is the suggestion by Yegge and Atwok that the solution 
 
 Yes, coding using dynamic language does indeed shorten the code base because it does away with all the variable declarations and what not. But, [remember that we still need to write more code for unit tests to replace compilers.](http://stackoverflow.com/questions/42934/whats-with-the-love-of-dynamic-languages/43072#43072) Moreover, [less code does not imply less complexity](http://www.manageability.org/blog/stuff/less-code-less-complexity). **Dynamic languages have their own problems**; their implicitness and levels of abstraction. Such features make it unsuitable for a project where there are many developers in the team, making it almost impossible to switch to using dynamic languages.
 
-[<img class="alignright size-full wp-image-269" title="uh oh large code base" src="assets/uploads/2011/06/uh-oh-large-code-base.jpg" alt="" width="350" height="469" srcset="assets/uploads/2011/06/uh-oh-large-code-base.jpg 350w, assets/uploads/2011/06/uh-oh-large-code-base-223x300.jpg 223w" sizes="(max-width: 350px) 100vw, 350px" />](assets/uploads/2011/06/uh-oh-large-code-base.jpg)
+[<img class="alignright size-full wp-image-269" title="uh oh large code base" src="/assets/uploads/2011/06/uh-oh-large-code-base.jpg" alt="" width="350" height="469" srcset="/assets/uploads/2011/06/uh-oh-large-code-base.jpg 350w, /assets/uploads/2011/06/uh-oh-large-code-base-223x300.jpg 223w" sizes="(max-width: 350px) 100vw, 350px" />](/assets/uploads/2011/06/uh-oh-large-code-base.jpg)
 
 **Like it or not, large code bases are here to stay.** [In his attempt to shorten his code in 18 revisions](http://maurits.wordpress.com/2011/06/16/less-code-matters/), Maurits Rijk only managed to shrink it by 40%. Yes, 40% is not that bad, we still have a smaller code in the end. But he is dealing with a relatively small code with only 62 LOC orignially. Imagine if our original code base has lets say, 1 million LOC, a reduction of 40% leaves us with 600kLOC which is still quite large.
 

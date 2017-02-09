@@ -16,7 +16,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-53" title="brain" src="assets/uploads/2010/04/brain-300x286.jpg" alt="" width="240" height="229" srcset="assets/uploads/2010/04/brain-300x286.jpg 300w, assets/uploads/2010/04/brain.jpg 500w" sizes="(max-width: 240px) 100vw, 240px" />](assets/uploads/2010/04/brain.jpg)
+[<img class="alignright size-medium wp-image-53" title="brain" src="/assets/uploads/2010/04/brain-300x286.jpg" alt="" width="240" height="229" srcset="/assets/uploads/2010/04/brain-300x286.jpg 300w, /assets/uploads/2010/04/brain.jpg 500w" sizes="(max-width: 240px) 100vw, 240px" />](/assets/uploads/2010/04/brain.jpg)
   
 One of the most interesting recent developments in the software industry is the change in focus from processes and tools to users and usability. One solution is to follow [the advice of David Platt](http://blog.architexa.com/2010/02/eliminating-the-suck-in-your-software/) and other prominent thought leaders on the subject. But there is more to the story; results from Cognitive Science help us understand the inner workings of the mind better as such allowing us to create superior user interfaces.
 

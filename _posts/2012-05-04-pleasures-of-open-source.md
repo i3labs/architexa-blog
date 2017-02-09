@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-350" title="Open-Source" src="assets/uploads/2012/05/Open-Source-1-300x269.jpg" alt="" width="210" height="188" srcset="assets/uploads/2012/05/Open-Source-1-300x269.jpg 300w, assets/uploads/2012/05/Open-Source-1.jpg 550w" sizes="(max-width: 210px) 100vw, 210px" />](assets/uploads/2012/05/Open-Source-1.jpg)I have been working on deploying a simple web app over the last 2-weeks. The experience has been one that has highlighted how Open Source is changing programming for all of us. First up: the pleasures of open source 🙂
+[<img class="alignright size-medium wp-image-350" title="Open-Source" src="/assets/uploads/2012/05/Open-Source-1-300x269.jpg" alt="" width="210" height="188" srcset="/assets/uploads/2012/05/Open-Source-1-300x269.jpg 300w, /assets/uploads/2012/05/Open-Source-1.jpg 550w" sizes="(max-width: 210px) 100vw, 210px" />](/assets/uploads/2012/05/Open-Source-1.jpg)I have been working on deploying a simple web app over the last 2-weeks. The experience has been one that has highlighted how Open Source is changing programming for all of us. First up: the pleasures of open source 🙂
 
 The goal of the app was to get something very basic and quick out there. I was taking a very simple utility – one that had been built over a day and making it available to everyone. Doing this meant adding what is commonly expected of most apps these days: storing results in a database, adding support for accounts and authentication, and integrating with a couple of external systems to make the utility easier to use.
 

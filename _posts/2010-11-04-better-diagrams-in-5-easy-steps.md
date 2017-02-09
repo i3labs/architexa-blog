@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright" title="Stairs" src="assets/uploads/2010/11/Stairs-263x300.jpg" alt="" width="210" height="240" />](assets/uploads/2010/11/Stairs.jpg)Documenting code can be a time consuming challenge, especially when dealing with unfamiliar spaghetti code. Diagrams and UML tools can help with this but what appears to be a comprehensive diagram to one person might actually result in more confusion to someone else. It&#8217;s important to maintain a clear idea of what concepts your diagram is conveying. I often find myself attempting to document entirely with inline comments. This is often very useful but presents challenges when documenting concepts that span <span style="font-size: 13.3333px;">multiple classes/methods. There are several tricks I&#8217;ve found that make the task of diagramming code significantly easier.</span>
+[<img class="alignright" title="Stairs" src="/assets/uploads/2010/11/Stairs-263x300.jpg" alt="" width="210" height="240" />](/assets/uploads/2010/11/Stairs.jpg)Documenting code can be a time consuming challenge, especially when dealing with unfamiliar spaghetti code. Diagrams and UML tools can help with this but what appears to be a comprehensive diagram to one person might actually result in more confusion to someone else. It&#8217;s important to maintain a clear idea of what concepts your diagram is conveying. I often find myself attempting to document entirely with inline comments. This is often very useful but presents challenges when documenting concepts that span <span style="font-size: 13.3333px;">multiple classes/methods. There are several tricks I&#8217;ve found that make the task of diagramming code significantly easier.</span>
 
 <!--more-->
 
@@ -44,7 +44,7 @@ Diagrams should receive routine maintenance to ensure they are up to date. Old d
 A diagram containing too many components does not necessarily convey more information. More classes, methods, and connections often result in a cluttered diagram that is too convoluted to understand at a glance. However, a concise diagram created within a clearly defined scope and describing a key code concept will much more effectively make even the most complex code easy to understand. Large sprawling diagrams can often be broken down into sub-concepts and organized to provide a fuller, more complete picture.
 
 <div id="attachment_153" style="width: 310px" class="wp-caption aligncenter">
-  <a href="assets/uploads/2010/11/log4j.png"><img class="size-medium wp-image-153 " title="log4j" src="assets/uploads/2010/11/log4j-300x126.png" alt="http://www.codemaps.org/groups/pJt2opXWGD9Q/fragments/BDjg0lOkFJZd" width="300" height="126" srcset="assets/uploads/2010/11/log4j-300x126.png 300w, assets/uploads/2010/11/log4j-1024x431.png 1024w, assets/uploads/2010/11/log4j.png 1363w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/assets/uploads/2010/11/log4j.png"><img class="size-medium wp-image-153 " title="log4j" src="/assets/uploads/2010/11/log4j-300x126.png" alt="http://www.codemaps.org/groups/pJt2opXWGD9Q/fragments/BDjg0lOkFJZd" width="300" height="126" srcset="/assets/uploads/2010/11/log4j-300x126.png 300w, /assets/uploads/2010/11/log4j-1024x431.png 1024w, /assets/uploads/2010/11/log4j.png 1363w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     This diagram highlights the concept of nested logging messages in apache Log4J. Notice how comments are used in conjunction with specific classes and methods to highlight the important logic.

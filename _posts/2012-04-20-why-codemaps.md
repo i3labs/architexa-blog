@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-full wp-image-341" title="CodeMaps" src="assets/uploads/2012/04/CodeMapsShot1.png" alt="" width="150" height="35" />](assets/uploads/2012/04/CodeMapsShot1.png)We got the early release of [CodeMaps](http://www.codemaps.org) out yesterday. It has been great to hear all the feedback.
+[<img class="alignright size-full wp-image-341" title="CodeMaps" src="/assets/uploads/2012/04/CodeMapsShot1.png" alt="" width="150" height="35" />](/assets/uploads/2012/04/CodeMapsShot1.png)We got the early release of [CodeMaps](http://www.codemaps.org) out yesterday. It has been great to hear all the feedback.
 
 Over half the people that came to the site liked it &#8211; we are excited to hear that the site is meeting a need. About a third of the people felt like it needed work &#8211; we agree, and we are just starting the process (please keep on giving us the feedback). One-tenth of the people did not find the site helpful &#8211; we are hoping that as we improve the site and make it&#8217;s purpose more obvious that this will change.
 

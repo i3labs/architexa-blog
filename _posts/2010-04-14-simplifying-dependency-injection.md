@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="size-medium wp-image-27 alignright" title="Dependency Injection" src="assets/uploads/2010/04/vilcus-plug-it-in-208x300.jpg" alt="" width="187" height="270" srcset="assets/uploads/2010/04/vilcus-plug-it-in-208x300.jpg 208w, assets/uploads/2010/04/vilcus-plug-it-in.jpg 533w" sizes="(max-width: 187px) 100vw, 187px" />](assets/uploads/2010/04/vilcus-plug-it-in.jpg)
+[<img class="size-medium wp-image-27 alignright" title="Dependency Injection" src="/assets/uploads/2010/04/vilcus-plug-it-in-208x300.jpg" alt="" width="187" height="270" srcset="/assets/uploads/2010/04/vilcus-plug-it-in-208x300.jpg 208w, /assets/uploads/2010/04/vilcus-plug-it-in.jpg 533w" sizes="(max-width: 187px) 100vw, 187px" />](/assets/uploads/2010/04/vilcus-plug-it-in.jpg)
   
 A lot has been written about _Dependency Injection_ (DI) however, it still remains a complicated topic. The [main](http://martinfowler.com/articles/injection.html) articles on this [topic](http://en.wikipedia.org/wiki/Dependency_injection) are quite thorough and provide really good information but in the process, the basic principle behind DI becomes hard to comprehend. DI is in fact fairly simple &#8211; its main goal is removal of a class dependency on some code. This class dependency is then &#8216;injected&#8217; into the code where it is needed. Using dependency injection helps in code maintenance, re-usability, testability, and improves code readability.
 

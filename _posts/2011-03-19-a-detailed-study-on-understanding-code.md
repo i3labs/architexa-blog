@@ -20,7 +20,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img src="assets/uploads/2011/07/understanding-the-brain-219x300.jpg" alt="" title="understanding-the-brain" width="219" height="300" class="alignright size-medium wp-image-302" srcset="assets/uploads/2011/07/understanding-the-brain-219x300.jpg 219w, assets/uploads/2011/07/understanding-the-brain.jpg 305w" sizes="(max-width: 219px) 100vw, 219px" />](assets/uploads/2011/07/understanding-the-brain.jpg)Let&#8217;s face it; code can be hard to understand. We have all encountered a piece of code that took longer than expected to figure out or was easy to misunderstand. It could be a new library, a coworker&#8217;s code, or your own code from 6 month&#8217;s ago.
+[<img src="/assets/uploads/2011/07/understanding-the-brain-219x300.jpg" alt="" title="understanding-the-brain" width="219" height="300" class="alignright size-medium wp-image-302" srcset="/assets/uploads/2011/07/understanding-the-brain-219x300.jpg 219w, /assets/uploads/2011/07/understanding-the-brain.jpg 305w" sizes="(max-width: 219px) 100vw, 219px" />](/assets/uploads/2011/07/understanding-the-brain.jpg)Let&#8217;s face it; code can be hard to understand. We have all encountered a piece of code that took longer than expected to figure out or was easy to misunderstand. It could be a new library, a coworker&#8217;s code, or your own code from 6 month&#8217;s ago.
 
 <div style="text-align: left;">
   In a <a href="http://blog.architexa.com/2011/02/making-cool-ideas-happen-studying-our-users-and-software-immigrants/">previous post</a> we discuss the importance of taking time to study users in order to get feedback on innovative ideas. We did that to determine how developers understand code and why it can be a challenge.
@@ -38,7 +38,7 @@ categories:
 
 <div>
   <div id="attachment_253" style="width: 310px" class="wp-caption aligncenter">
-    <br /> <a href="assets/uploads/2011/05/graph1.jpg"><img class="size-medium wp-image-254 aligncenter" title="Core vs Api Devs" src="assets/uploads/2011/05/graph1-300x144.jpg" alt="123" width="300" height="144" srcset="assets/uploads/2011/05/graph1-300x144.jpg 300w, assets/uploads/2011/05/graph1.jpg 595w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    <br /> <a href="/assets/uploads/2011/05/graph1.jpg"><img class="size-medium wp-image-254 aligncenter" title="Core vs Api Devs" src="/assets/uploads/2011/05/graph1-300x144.jpg" alt="123" width="300" height="144" srcset="/assets/uploads/2011/05/graph1-300x144.jpg 300w, /assets/uploads/2011/05/graph1.jpg 595w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     
     <p class="wp-caption-text">
       Core developers that worked to create frameworks and libraries for others to use felt their codebase was easier to understand when compared to the API developers using them.
@@ -51,7 +51,7 @@ categories:
 </div>
 
 <div id="attachment_253" style="width: 310px" class="wp-caption aligncenter">
-  <a href="assets/uploads/2011/05/graph2.png" rel="wp-prettyPhoto"><img class="size-medium wp-image-253" title="What Devs find useful" src="assets/uploads/2011/05/graph2-300x178.png" alt="" width="300" height="178" srcset="assets/uploads/2011/05/graph2-300x178.png 300w, assets/uploads/2011/05/graph2-1024x608.png 1024w, assets/uploads/2011/05/graph2.png 1367w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/assets/uploads/2011/05/graph2.png" rel="wp-prettyPhoto"><img class="size-medium wp-image-253" title="What Devs find useful" src="/assets/uploads/2011/05/graph2-300x178.png" alt="" width="300" height="178" srcset="/assets/uploads/2011/05/graph2-300x178.png 300w, /assets/uploads/2011/05/graph2-1024x608.png 1024w, /assets/uploads/2011/05/graph2.png 1367w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     There are some striking differences between what developers currently find useful for understanding code and what they would like to see more of.

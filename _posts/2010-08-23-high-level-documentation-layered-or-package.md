@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-129" title="strata" src="assets/uploads/2010/08/strata-300x198.jpg" alt="Layers or packages?" width="300" height="198" srcset="assets/uploads/2010/08/strata-300x198.jpg 300w, assets/uploads/2010/08/strata.jpg 472w" sizes="(max-width: 300px) 100vw, 300px" />](assets/uploads/2010/08/strata.jpg)Layered diagrams seem to have become an integral part of <a href="http://www.architexa.com/" target="_blank">documenting code</a> well, but many developers don&#8217;t realize that they aren&#8217;t technically included in the UML spec. The UML standard provides a different sort of high level concept: the Package Diagram. It is often not clear when one should be used over the other, but I will attempt to show the strengths and weaknesses of both.
+[<img class="alignright size-medium wp-image-129" title="strata" src="/assets/uploads/2010/08/strata-300x198.jpg" alt="Layers or packages?" width="300" height="198" srcset="/assets/uploads/2010/08/strata-300x198.jpg 300w, /assets/uploads/2010/08/strata.jpg 472w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2010/08/strata.jpg)Layered diagrams seem to have become an integral part of <a href="http://www.architexa.com/" target="_blank">documenting code</a> well, but many developers don&#8217;t realize that they aren&#8217;t technically included in the UML spec. The UML standard provides a different sort of high level concept: the Package Diagram. It is often not clear when one should be used over the other, but I will attempt to show the strengths and weaknesses of both.
 
 <p style="text-align: left;">
   A layered diagram is useful for organizing and understanding the structure of a large code base from the top most level down. Instead  of using cumbersome directory trees or code searches to determine the relationships between packages, you can easily see them all in one space. Someone unfamiliar with the code base can easily examine a layered diagram and in a short time will have a grasp of the dependencies inherent in the project without having to be bogged down with details on classes or methods. It is also possible to include architectural components in a layered diagram, including databases, cloud/web components, and UIs. This allows for a flexible diagram that can show a great deal of information concisely.A project with a complex but easily understandable layered diagram is a sign of a well organized codebase.
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <div id="attachment_128" style="width: 310px" class="wp-caption aligncenter">
-  <a href="assets/uploads/2010/08/layers.png"><img class="size-medium wp-image-128" title="layers" src="assets/uploads/2010/08/layers-300x225.png" alt="Layered Diagram" width="300" height="225" srcset="assets/uploads/2010/08/layers-300x225.png 300w, assets/uploads/2010/08/layers.png 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/assets/uploads/2010/08/layers.png"><img class="size-medium wp-image-128" title="layers" src="/assets/uploads/2010/08/layers-300x225.png" alt="Layered Diagram" width="300" height="225" srcset="/assets/uploads/2010/08/layers-300x225.png 300w, /assets/uploads/2010/08/layers.png 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Here we see a Layered Diagram showing the architecture and relationship of multiple packages by grouping them in layers
@@ -50,7 +50,7 @@ Incorporating packages and package diagrams with other diagram types can allow y
 
 <p style="text-align: left;">
   <div id="attachment_127" style="width: 310px" class="wp-caption aligncenter">
-    <a href="assets/uploads/2010/08/Package_Diagram.png"><img class="size-medium wp-image-127 " title="Package_Diagram" src="assets/uploads/2010/08/Package_Diagram-300x179.png" alt="Package Diagram" width="300" height="179" srcset="assets/uploads/2010/08/Package_Diagram-300x179.png 300w, assets/uploads/2010/08/Package_Diagram-1024x614.png 1024w, assets/uploads/2010/08/Package_Diagram.png 1429w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    <a href="/assets/uploads/2010/08/Package_Diagram.png"><img class="size-medium wp-image-127 " title="Package_Diagram" src="/assets/uploads/2010/08/Package_Diagram-300x179.png" alt="Package Diagram" width="300" height="179" srcset="/assets/uploads/2010/08/Package_Diagram-300x179.png 300w, /assets/uploads/2010/08/Package_Diagram-1024x614.png 1024w, /assets/uploads/2010/08/Package_Diagram.png 1429w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     
     <p class="wp-caption-text">
       Here is a package diagram highlighting the high level relationships and usecases between different packages in a medical/search project.

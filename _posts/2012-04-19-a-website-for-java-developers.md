@@ -18,7 +18,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-full wp-image-341" title="CodeMaps" src="assets/uploads/2012/04/CodeMapsShot1.png" alt="" width="150" height="35" />](assets/uploads/2012/04/CodeMapsShot1.png)As we mentioned in out last post we have been working on a site to help Java Developers use Open Source Projects. The site is in an early stage but we want to work on the site openly and improve it with your feedback.
+[<img class="alignright size-full wp-image-341" title="CodeMaps" src="/assets/uploads/2012/04/CodeMapsShot1.png" alt="" width="150" height="35" />](/assets/uploads/2012/04/CodeMapsShot1.png)As we mentioned in out last post we have been working on a site to help Java Developers use Open Source Projects. The site is in an early stage but we want to work on the site openly and improve it with your feedback.
 
 Out goal is to help you use an Open Source Project. We want to help you easily look at the API&#8217;s/Javadoc; Make it easy to get a code snippet for using a feature in a library; Simplify finding the right blog post; And even get you a high-level view of the project.
 

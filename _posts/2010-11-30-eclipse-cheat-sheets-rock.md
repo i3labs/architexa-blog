@@ -21,14 +21,14 @@ tags:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-190" title="Cheating" src="assets/uploads/2010/11/Cheating1-300x200.jpg" alt="" width="300" height="200" srcset="assets/uploads/2010/11/Cheating1-300x200.jpg 300w, assets/uploads/2010/11/Cheating1.jpg 336w" sizes="(max-width: 300px) 100vw, 300px" />](assets/uploads/2010/11/Cheating1.jpg)The hardest part in creating a user interface or complex feature is explaining to the user how it should be used. No matter how useful a feature is, if users can not figure out how to use it, it won’t provide them any benefit.
+[<img class="alignright size-medium wp-image-190" title="Cheating" src="/assets/uploads/2010/11/Cheating1-300x200.jpg" alt="" width="300" height="200" srcset="/assets/uploads/2010/11/Cheating1-300x200.jpg 300w, /assets/uploads/2010/11/Cheating1.jpg 336w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2010/11/Cheating1.jpg)The hardest part in creating a user interface or complex feature is explaining to the user how it should be used. No matter how useful a feature is, if users can not figure out how to use it, it won’t provide them any benefit.
 
 Tutorials and wizards can both help in getting users easily using features for the first time. Tutorials can be good at describing the steps necessary to perform a task where users may want to modify the steps in order to accommodate their specific needs. But tutorials do not typically live within your plugin/product and force users to switch between a tutorial on a website and your product. Wizards are great for taking a user through an ordered series of configuration actions but they also have their weaknesses. Wizards live entirely in a dialog box, which not only has to be designed by the development team, but also does not provide nearly enough flexibility. This is where a little known feature of Eclipse comes to the rescue.
 
 <!--more-->
 
 <div style="width: 271px" class="wp-caption alignleft">
-  <img title="cheatsheetStart" src="assets/uploads/2010/11/cheatsheetStart.png" alt="" width="261" height="586" />
+  <img title="cheatsheetStart" src="/assets/uploads/2010/11/cheatsheetStart.png" alt="" width="261" height="586" />
   
   <p class="wp-caption-text">
     An example of a cheat sheet. This happens to be the cheat sheet for creating an Eclipse Plugin

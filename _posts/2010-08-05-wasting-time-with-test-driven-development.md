@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-<span style="font-size: 13.1944px;"><a href="assets/uploads/2010/08/test.jpg"><img class="alignright size-medium wp-image-122" title="test" src="assets/uploads/2010/08/test-300x225.jpg" alt="" width="300" height="225" srcset="assets/uploads/2010/08/test-300x225.jpg 300w, assets/uploads/2010/08/test.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>Many teams are moving to test driven development and very often this a good thing. In a drive towards increased code stability and maintainability, good test cases can be very helpful. But this is not always the case; while working with development teams, most teams seem to have one or more critical problems. It seems that it is easy to do Test Driven Development (TDD) badly &#8211; below are five situations that I have seen multiple times.</span>
+<span style="font-size: 13.1944px;"><a href="/assets/uploads/2010/08/test.jpg"><img class="alignright size-medium wp-image-122" title="test" src="/assets/uploads/2010/08/test-300x225.jpg" alt="" width="300" height="225" srcset="/assets/uploads/2010/08/test-300x225.jpg 300w, /assets/uploads/2010/08/test.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>Many teams are moving to test driven development and very often this a good thing. In a drive towards increased code stability and maintainability, good test cases can be very helpful. But this is not always the case; while working with development teams, most teams seem to have one or more critical problems. It seems that it is easy to do Test Driven Development (TDD) badly &#8211; below are five situations that I have seen multiple times.</span>
   
 <!--more-->
 
