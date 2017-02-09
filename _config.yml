@@ -22,11 +22,11 @@ paginate_path: "/page/:num/"
 title: "Architexa - Working with Large Codebases"
 author: Vineet Sinha
 email: vineet.sinha@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Experiments in Intelligent, Insightful, and Intuitive
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://blog.architexa.com
-twitter_username: VineetSinha
+twitter_username: Architexa
+facebook_username: Architexa
+rss_url: http://feeds.feedburner.com/Architexa
 github_username:  vineet-sinha
 repository: i3labs/i3labs.github.io
 

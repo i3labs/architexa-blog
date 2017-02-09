@@ -106,6 +106,57 @@
 }
 
 
+/**
+ * Images in posts
+ */
+.wp-caption {
+  text-align: center;
+  padding-top: 4px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  background-color: #f3f3f3;
+
+  img {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    padding: 0 4px 5px;
+    margin: 0;
+  }
+}
+
+
+.alignright {
+  float: right;
+}
+
+img.alignright {
+  padding: 5px;
+  margin: 0 0 5px 15px;
+}
+
+.entry img {
+  padding: 5px;
+  max-width: 100%;
+  border: 1px solid #eee;
+}
+
+a img {
+  text-decoration: none;
+  border: none;
+}
+
+
+.entry p {
+    padding: 7px 0 7px 0;
+    margin: 0;
+}
+
+
 
 /**
  * Site footer

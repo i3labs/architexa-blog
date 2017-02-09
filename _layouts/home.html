@@ -14,7 +14,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <div>
+        <div class="entry">
           {{post.excerpt}}
         </div>
         <div>
@@ -24,7 +24,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ site.rss_url }}">via RSS</a></p>
 
   <div class="pagination">
     <div class="older" style="float:left">
