@@ -133,11 +133,19 @@
 .alignright {
   float: right;
 }
+.alignleft {
+  float: left;
+}
 
 img.alignright {
   padding: 5px;
   margin: 0 0 5px 15px;
 }
+img.alignleft {
+  padding: 5px;
+  margin: 0 15px 5px 0;
+}
+
 
 .entry img {
   padding: 5px;
