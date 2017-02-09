@@ -30,11 +30,10 @@ Below is a slice if you will through what are some next generation offerings in 
 
 **Debugger Canvas  **[Debugger Canvas](http://msdn.microsoft.com/en-us/devlabs/debuggercanvas.aspx "Debugger Canvas") by Microsoft <strong id="internal-source-marker_0.25623594783246517">(see <a href="http://www.youtube.com/watch?v=tsFfyli2Y9s">video</a>)</strong> is based on Code Canvas which was developed at Microsoft Research in  collaboration with the Code Bubbles folks from Brown.  Debugger Canvas is available to premium Microsoft Visual Studio license holders.  I love how you can view a GUI widget, its documentation, and implementation side by side in one clean view.  The development metaphor is very different from a traditional IDE.
   
-![](http://blog.architexa.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
 &nbsp;
 
-**<!--more-->
+<!--more-->
 
 
   
