@@ -19,7 +19,7 @@ paginate_path: "/page/:num/"
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Architexa - Working with Large Codebases"
+title: "Working with Large Codebases"
 author: Vineet Sinha
 email: vineet.sinha@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
