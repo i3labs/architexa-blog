@@ -66,7 +66,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit;
+  //margin-left: $spacing-unit;
 }
 
 li {
@@ -152,17 +152,12 @@ pre {
 
 
 
-/**
- * Wrapper
- */
-.page-content/*, .wrapper*/ {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
+.page-main {
+  width: 895px;
+  margin: 0 auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
-  background-color: white;
+  //background-color: white;
   @extend %clearfix;
 
   @include media-query($on-laptop) {

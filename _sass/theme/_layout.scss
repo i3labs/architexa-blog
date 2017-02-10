@@ -1,6 +1,13 @@
 /**
  * Site header
  */
+ .site-header {
+    margin: 0;
+    padding: 0;
+    background-color: #{$brand-color};
+    border-bottom: 3px double #FFFFFF;
+}
+/*
 .site-header {
   //border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
@@ -10,17 +17,22 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
+*/
 
 .site-title {
-  font-size: 26px;
-  font-weight: bold;
+  width: 895px;
+  margin: 0 auto;
+  height: 45px;
   line-height: 56px;
   //letter-spacing: -1px;
-  margin-bottom: 0;
+  border: none;
+  //margin-top: 14px;
+  font-weight: 200;
+  font-size: 20px;
+  font-family: 'Ubuntu', Tahoma, sans-serif;
 
-
-  & a:visited {
-    color: $grey-color-dark;
+  a, a:visited {
+    color: white;
   }
 }
 
@@ -102,6 +114,17 @@
       }
       margin-left: 20px;
     }
+  }
+}
+
+.content {
+  float: left;
+  padding: 30px 40px 30px 0px;
+  margin: 0px auto;
+  width: 580px;  
+
+  .pagination {
+  //  margin-left: 30px;
   }
 }
 
@@ -240,9 +263,9 @@ a img {
  * Page content
  */
 .page-content {
-  padding: 0 (1.5*$spacing-unit);
-  margin: 48px auto;
-  box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+  padding: 0;
+  width: 100%;
+  text-align: left;
 }
 
 .page-heading {
@@ -250,7 +273,6 @@ a img {
 }
 
 .post-list {
-  margin-left: 0;
   list-style: none;
 
   > li {
@@ -268,7 +290,12 @@ a img {
   font-size: 22px;
 }
 
-
+.sidebar {
+  width: 250px;
+  float: right;
+  margin: 20px 0px;
+  font: 1.2em/1.4em Verdana, Arial, Tahoma;
+}
 
 /**
  * Posts

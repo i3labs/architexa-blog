@@ -6,6 +6,7 @@ layout: default
 
   {{ content }}
 
+ <div class="content">
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -24,8 +25,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ site.rss_url }}">via RSS</a></p>
-
   <div class="pagination">
     <div class="older" style="float:left">
       {% if paginator.next_page %}
@@ -39,6 +38,11 @@ layout: default
     </div>
     <!-- <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> -->
   </div>
+ </div>
+
+ <div class="sidebar">
+   <p class="rss-subscribe">Subscribe <a href="{{ site.rss_url }}">via RSS</a></p>
+ </div>
 
 
 </div>
