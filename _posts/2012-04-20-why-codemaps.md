@@ -26,7 +26,7 @@ For the curious, the above numbers are 53%, 35%, and 11% respectively (we used t
 
 The biggest question that we heard about was about the sites purpose. Our goal is big, as we [mentioned](http://blog.architexa.com/2012/04/a-website-for-java-developers/) earlier:
 
-> Out goal is to help you use an Open Source Project. We want to help you easily look at the API’s/Javadoc; Make it easy to get a code snippet for using a feature in a library; Simplify finding the right blog post; And even get you a high-level view of the project.
+> Our goal is to help you use an Open Source Project. We want to help you easily look at the API’s/Javadoc; Make it easy to get a code snippet for using a feature in a library; Simplify finding the right blog post; And even get you a high-level view of the project.
 
 We are planning to start this simply:
 
