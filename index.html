@@ -4,3 +4,28 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<ul class="post-list">
+{% for post in paginator.posts %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h2>
+    <div class="entry">
+      <span class="post-meta">
+        Posted in 
+        {% for category in post.categories %}
+              <a href="/category/{{category | slugify}}/">{{category}}</a>, 
+        {% endfor %}
+        on {{ post.date | date: "%b %-d, %Y" }}
+        by {{post.author}}
+      </span>
+
+      {{post.excerpt}}
+    </div>
+    <div>
+      <a href="{{ post.url | relative_url }}">Read More &rsaquo;&rsaquo;</a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
