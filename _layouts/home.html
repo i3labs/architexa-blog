@@ -10,12 +10,19 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         <div class="entry">
+          <span class="post-meta">
+            Posted in 
+            {% for category in post.categories %}
+                  <a href="/category/{{category | slugify}}/">{{category}}</a>, 
+            {% endfor %}
+            on {{ post.date | date: "%b %-d, %Y" }}
+            by {{post.author}}
+          </span>
+
           {{post.excerpt}}
         </div>
         <div>
