@@ -33,6 +33,7 @@
 
   a, a:visited {
     color: white;
+    border: none;
   }
 }
 
@@ -170,6 +171,10 @@ img.alignleft {
 }
 
 
+h2 a, h2 a:visited {
+  color: #333;
+}
+
 .entry img {
   padding: 5px;
   max-width: 100%;
@@ -295,6 +300,34 @@ a img {
   float: right;
   margin: 20px 0px;
   font: 1.2em/1.4em Verdana, Arial, Tahoma;
+
+  a {
+    border: none;
+    padding: 5px 5px;
+  }
+
+  ul ul li {
+    color: #aaa;
+
+    a {
+      background: url(/assets/theme/cat.gif) no-repeat 5px 7px;
+      padding-left: 20px;
+    }
+  }
+
+  ul li {
+    list-style-type: none;
+    list-style-image: none;
+    margin-bottom: 15px;
+
+    h2 {
+      font-family: Georgia, Arial, 'Lucida Grande', Verdana, Sans-Serif;
+      font-size: 1.6em;
+      padding: 5px 5px;
+      color: #999;
+      border-bottom: 3px solid #eee;
+    }
+  }
 }
 
 /**
