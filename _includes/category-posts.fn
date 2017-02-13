@@ -2,7 +2,7 @@
  category-posts: based on a category (cat) to output posts
 {% endcomment %}
 
-{{include.cat}}
+<h2 class="page-title">{{include.cat}}</h2>
 
 <ul class="post-list">
 {% for post in site.posts %}
@@ -15,7 +15,7 @@
       <span class="post-meta">
         Posted in 
         {% for category in post.categories %}
-              <a href="/category/{{category | slugify}}/">{{category}}</a>, 
+              <a href="/category/{{category | replace:"&amp;","&" | slugify}}/">{{category}}</a>, 
         {% endfor %}
         on {{ post.date | date: "%b %-d, %Y" }}
         by {{post.author}}
