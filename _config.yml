@@ -22,7 +22,7 @@ paginate_path: "/page/:num/"
 title: "Working with Large Codebases"
 author: Vineet Sinha
 email: vineet.sinha@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/architexa-blog" # the subpath of your site, e.g. /blog
 url: http://blog.architexa.com
 twitter_username: Architexa
 facebook_username: Architexa
