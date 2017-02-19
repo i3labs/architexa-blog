@@ -15,7 +15,7 @@ layout: default
       <span class="post-meta">
         Posted in 
         {% for category in post.categories %}
-              <a href="/category/{{category | replace:"&amp;","&" | slugify}}/">{{category}}</a>{% if forloop.last == false %}, {% endif %}
+              <a href="{{ "/category/" | relative_url }}{{category | replace:"&amp;","&" | slugify}}/">{{category}}</a>{% if forloop.last == false %}, {% endif %}
         {% endfor %}
         on {{ post.date | date: "%b %-d, %Y" }}
         by {{post.author}}
