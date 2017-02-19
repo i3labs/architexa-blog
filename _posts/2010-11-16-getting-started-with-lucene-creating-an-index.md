@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-<a href="http://lucene.apache.org" target="_blank"><img class="alignright size-full wp-image-166" title="lucene_green_300" src="/assets/uploads/2010/11/lucene_green_300.gif" alt="" width="300" height="46" /></a>One of my favorite parts of working at Architexa is that I get the chance to learn and experiment with new and interesting libraries, projects, and tools. One such project is Lucene. It provides a great infrastructure for indexing and searching any sort of text. This can be used for all sorts of applications and has saved us a great deal of time when keeping track of data in our projects.
+<a href="http://lucene.apache.org" target="_blank"><img class="alignright size-full wp-image-166" title="lucene_green_300" src="{{site.baseurl}}/assets/uploads/2010/11/lucene_green_300.gif" alt="" width="300" height="46" /></a>One of my favorite parts of working at Architexa is that I get the chance to learn and experiment with new and interesting libraries, projects, and tools. One such project is Lucene. It provides a great infrastructure for indexing and searching any sort of text. This can be used for all sorts of applications and has saved us a great deal of time when keeping track of data in our projects.
 
 <!--more-->
 

@@ -17,7 +17,7 @@ categories:
 
 <!--dzoneZ=none-->
 
-[<img class="alignright size-medium wp-image-93" title="LAUNCH" src="/assets/uploads/2010/06/LAUNCH-300x289.png" alt="" width="300" height="289" srcset="/assets/uploads/2010/06/LAUNCH-300x289.png 300w, /assets/uploads/2010/06/LAUNCH.png 495w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2010/06/LAUNCH.png)After years of hard-work, we are extremely happy to be opening the doors to let everyone in to see our work.
+[<img class="alignright size-medium wp-image-93" title="LAUNCH" src="{{site.baseurl}}/assets/uploads/2010/06/LAUNCH-300x289.png" alt="" width="300" height="289" srcset="{{site.baseurl}}/assets/uploads/2010/06/LAUNCH-300x289.png 300w, {{site.baseurl}}/assets/uploads/2010/06/LAUNCH.png 495w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.baseurl}}/assets/uploads/2010/06/LAUNCH.png)After years of hard-work, we are extremely happy to be opening the doors to let everyone in to see our work.
 
 We have been working hard so that programmers can easily work with large codebases &#8211; whether it is in making sense of the code that you have, documenting it, or just discussing it with team mates. You will notice that we have built a set of powerful but easy to use diagramming tools. We believe these tools will help you and your team work more effectively.
 

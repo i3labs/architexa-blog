@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-full wp-image-166" title="lucene_green_300" src="/assets/uploads/2010/11/lucene_green_300.gif" alt="" width="300" height="46" />](/assets/uploads/2010/11/lucene_green_300.gif)As humans, we are constantly being bombarded with data throughout our lives. Thanks to the superb filtering and attention abilities of our brains we are able to make sense of all this information. Java programs and web apps need to rely on Lucene for this ability. Using Lucene, apps can now collect information at will, add it to an index, and retrieve whatever information is currently needed quickly and efficiently.
+[<img class="alignright size-full wp-image-166" title="lucene_green_300" src="{{site.baseurl}}/assets/uploads/2010/11/lucene_green_300.gif" alt="" width="300" height="46" />]({{site.baseurl}}/assets/uploads/2010/11/lucene_green_300.gif)As humans, we are constantly being bombarded with data throughout our lives. Thanks to the superb filtering and attention abilities of our brains we are able to make sense of all this information. Java programs and web apps need to rely on Lucene for this ability. Using Lucene, apps can now collect information at will, add it to an index, and retrieve whatever information is currently needed quickly and efficiently.
 
 In my [last post](http://blog.architexa.com/2010/11/getting-started-with-lucene-creating-an-index/) we learned the basics of creating and modifying a Lucene Index. Now I&#8217;ll give you some tips on how to query your index and avoid some of the pitfalls and stumbling blocks I&#8217;ve come across.
   

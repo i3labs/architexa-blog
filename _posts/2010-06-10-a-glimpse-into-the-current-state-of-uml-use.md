@@ -21,7 +21,7 @@ categories:
 <!--S-ButtonZ 1.1.5 End-->
 
 <div id="attachment_88" style="width: 310px" class="wp-caption alignright">
-  <a href="/assets/uploads/2010/06/UMLUsed.png"><img class="size-medium wp-image-88" title="UML Diagram Type Used" src="/assets/uploads/2010/06/UMLUsed-300x244.png" alt="" width="300" height="244" srcset="/assets/uploads/2010/06/UMLUsed-300x244.png 300w, /assets/uploads/2010/06/UMLUsed.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.baseurl}}/assets/uploads/2010/06/UMLUsed.png"><img class="size-medium wp-image-88" title="UML Diagram Type Used" src="{{site.baseurl}}/assets/uploads/2010/06/UMLUsed-300x244.png" alt="" width="300" height="244" srcset="{{site.baseurl}}/assets/uploads/2010/06/UMLUsed-300x244.png 300w, {{site.baseurl}}/assets/uploads/2010/06/UMLUsed.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     The percentage of responders that said that they have used this diagram type. Class, Sequence, and UseCase diagrams stand out as the most often used.
@@ -43,7 +43,7 @@ It is important to realize that the UML diagrams can be made with no more than 
     <td>
       <p>
         <div id="attachment_90" style="width: 280px" class="wp-caption alignleft">
-          <a href="/assets/uploads/2010/06/usedVaccess.png"><img class="size-medium wp-image-90  " title="usedVaccess" src="/assets/uploads/2010/06/usedVaccess-300x299.png" alt="" width="270" height="269" srcset="/assets/uploads/2010/06/usedVaccess-300x299.png 300w, /assets/uploads/2010/06/usedVaccess-150x150.png 150w, /assets/uploads/2010/06/usedVaccess.png 832w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+          <a href="{{site.baseurl}}/assets/uploads/2010/06/usedVaccess.png"><img class="size-medium wp-image-90  " title="usedVaccess" src="{{site.baseurl}}/assets/uploads/2010/06/usedVaccess-300x299.png" alt="" width="270" height="269" srcset="{{site.baseurl}}/assets/uploads/2010/06/usedVaccess-300x299.png 300w, {{site.baseurl}}/assets/uploads/2010/06/usedVaccess-150x150.png 150w, {{site.baseurl}}/assets/uploads/2010/06/usedVaccess.png 832w" sizes="(max-width: 270px) 100vw, 270px" /></a>
           
           <p class="wp-caption-text">
             Class, usecase, sequence, were the most widely used. For the most part access to diagrams is between 50%-80% of the percentage of people that used it. I believe this is a result of the way the question was phrased in the survey. Although it is interesting to note that the difference between the two in the activity diagram is quite significant.
@@ -53,7 +53,7 @@ It is important to realize that the UML diagrams can be made with no more than 
         <td>
           <p>
             <div id="attachment_91" style="width: 280px" class="wp-caption alignleft">
-              <a href="/assets/uploads/2010/06/usefullnessVAccuracy.png"><img class="size-medium wp-image-91  " title="usefullnessVAccuracy" src="/assets/uploads/2010/06/usefullnessVAccuracy-300x267.png" alt="" width="270" height="240" srcset="/assets/uploads/2010/06/usefullnessVAccuracy-300x267.png 300w, /assets/uploads/2010/06/usefullnessVAccuracy.png 832w" sizes="(max-width: 270px) 100vw, 270px" /></a>
+              <a href="{{site.baseurl}}/assets/uploads/2010/06/usefullnessVAccuracy.png"><img class="size-medium wp-image-91  " title="usefullnessVAccuracy" src="{{site.baseurl}}/assets/uploads/2010/06/usefullnessVAccuracy-300x267.png" alt="" width="270" height="240" srcset="{{site.baseurl}}/assets/uploads/2010/06/usefullnessVAccuracy-300x267.png 300w, {{site.baseurl}}/assets/uploads/2010/06/usefullnessVAccuracy.png 832w" sizes="(max-width: 270px) 100vw, 270px" /></a>
               
               <p class="wp-caption-text">
                 Usefulness and Accuracy of the diagrams were measured on a scale of 1-5. Notice that class, timing, state, and sequence diagrams were all considered significantly more useful than the other diagram types. The discrepancy between the usefulness and accuracy in timing diagrams is also interesting.

@@ -22,7 +22,7 @@ tags:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img src="/assets/uploads/2010/11/Cheating1-300x200.jpg" alt="" title="Cheating" width="300" height="200" class="alignright size-medium wp-image-190" srcset="/assets/uploads/2010/11/Cheating1-300x200.jpg 300w, /assets/uploads/2010/11/Cheating1.jpg 336w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2010/11/Cheating1.jpg)
+[<img src="{{site.baseurl}}/assets/uploads/2010/11/Cheating1-300x200.jpg" alt="" title="Cheating" width="300" height="200" class="alignright size-medium wp-image-190" srcset="{{site.baseurl}}/assets/uploads/2010/11/Cheating1-300x200.jpg 300w, {{site.baseurl}}/assets/uploads/2010/11/Cheating1.jpg 336w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.baseurl}}/assets/uploads/2010/11/Cheating1.jpg)
   
 Based on the great response we have had to our previous cheat sheets articles, ([why they rock](http://blog.architexa.com/2010/11/eclipse-cheat-sheets-rock/) and [tips and tricks](http://blog.architexa.com/2010/12/eclipse-cheat-sheets-tips-and-tricks/)), I have decided to post a more in depth tutorial. One of the many benefits of Cheat sheets is that they provide an immediate improvement to your product’s usability and are simple to implement. This article will allow you to quickly create multiple cheat sheets. 
 

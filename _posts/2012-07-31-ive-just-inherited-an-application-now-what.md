@@ -22,7 +22,7 @@ categories:
 <!--S-ButtonZ 1.1.5 End-->
 
 <div id="attachment_369" style="width: 310px" class="wp-caption alignright">
-  <a href="/assets/uploads/2012/07/LuceneOverviewDiag.png"><img class="size-medium wp-image-369" title="Lucene Overview Diagram" alt="Lucene Overview Diagram" src="/assets/uploads/2012/07/LuceneOverviewDiag-300x225.png" width="300" height="225" srcset="/assets/uploads/2012/07/LuceneOverviewDiag-300x225.png 300w, /assets/uploads/2012/07/LuceneOverviewDiag.png 602w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.baseurl}}/assets/uploads/2012/07/LuceneOverviewDiag.png"><img class="size-medium wp-image-369" title="Lucene Overview Diagram" alt="Lucene Overview Diagram" src="{{site.baseurl}}/assets/uploads/2012/07/LuceneOverviewDiag-300x225.png" width="300" height="225" srcset="{{site.baseurl}}/assets/uploads/2012/07/LuceneOverviewDiag-300x225.png 300w, {{site.baseurl}}/assets/uploads/2012/07/LuceneOverviewDiag.png 602w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     What if I had a diagram like this?

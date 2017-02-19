@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-251" title="cat-computer" src="/assets/uploads/2011/05/cat-computer-300x207.jpg" alt="" width="300" height="207" srcset="/assets/uploads/2011/05/cat-computer-300x207.jpg 300w, /assets/uploads/2011/05/cat-computer.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/uploads/2011/05/cat-computer.jpg)Managing software developers can be a difficult task, especially when working with an agile team. Changing requirements and priorities combined with a learning and growing team can make even the most experienced managers sweat.
+[<img class="alignright size-medium wp-image-251" title="cat-computer" src="{{site.baseurl}}/assets/uploads/2011/05/cat-computer-300x207.jpg" alt="" width="300" height="207" srcset="{{site.baseurl}}/assets/uploads/2011/05/cat-computer-300x207.jpg 300w, {{site.baseurl}}/assets/uploads/2011/05/cat-computer.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.baseurl}}/assets/uploads/2011/05/cat-computer.jpg)Managing software developers can be a difficult task, especially when working with an agile team. Changing requirements and priorities combined with a learning and growing team can make even the most experienced managers sweat.
 
 Similar complex interactions have been studied in a number of fields. Game Theory, Cybernetics, and Chaos Theory all provide inspiration to managers looking to ease communication and improve the performance of a team. These theories along with many others fall into the category of [Complex Systems](http://en.wikipedia.org/wiki/Complex_systems). But as developers we need to be careful when utilizing concepts from other domains or managing developers may become an exercise in herding cats.
   

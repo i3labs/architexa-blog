@@ -19,7 +19,7 @@ categories:
 
 <!--S-ButtonZ 1.1.5 End-->
 
-[<img class="alignright size-medium wp-image-304" title="sketching" src="/assets/uploads/2011/08/sketching-300x200.jpg" alt="" width="376" height="250" />](/assets/uploads/2011/08/sketching.jpg)_“Diagrams?”_
+[<img class="alignright size-medium wp-image-304" title="sketching" src="{{site.baseurl}}/assets/uploads/2011/08/sketching-300x200.jpg" alt="" width="376" height="250" />]({{site.baseurl}}/assets/uploads/2011/08/sketching.jpg)_“Diagrams?”_
 
 Yes, diagrams. All of us use diagrams in one way or another. Mostly, diagrams are used to enhance communication and to illustrate what exactly one is talking about.
 

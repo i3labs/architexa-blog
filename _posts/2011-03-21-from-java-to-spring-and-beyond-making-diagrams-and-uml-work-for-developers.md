@@ -39,7 +39,7 @@ tags:
 
 <div>
   <div>
-    <a href="/assets/uploads/2011/03/spring-struts.png"><img class="alignright" title="spring-struts" src="/assets/uploads/2011/03/spring-struts.png" alt="" width="251" height="175" /></a>One of the strengths of working with Java is the large number of frameworks that are available. These frameworks are great for taking care of the basic tasks involved in building Java based apps. But they often bring about challenges in understanding &#8211; whether it is xml files or annotation based configurations, developers needing to work with these frameworks have to see how different parts of the code are connected.
+    <a href="{{site.baseurl}}/assets/uploads/2011/03/spring-struts.png"><img class="alignright" title="spring-struts" src="{{site.baseurl}}/assets/uploads/2011/03/spring-struts.png" alt="" width="251" height="175" /></a>One of the strengths of working with Java is the large number of frameworks that are available. These frameworks are great for taking care of the basic tasks involved in building Java based apps. But they often bring about challenges in understanding &#8211; whether it is xml files or annotation based configurations, developers needing to work with these frameworks have to see how different parts of the code are connected.
   </div>
   
   <div>
