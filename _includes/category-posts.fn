@@ -9,7 +9,7 @@
 {% if post.categories contains {{include.cat}} %}
   <li>
     <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>
     <div class="entry">
       <span class="post-meta">
