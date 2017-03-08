@@ -12,6 +12,7 @@ permalink: /:year/:month/:title/
 excerpt_separator: <!--more-->
 paginate: 10
 paginate_path: "/page/:num/"
+google_analytics: UA-2209623-5
 
 
 # Site settings
